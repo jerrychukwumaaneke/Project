@@ -1,0 +1,4 @@
+#man ul{list-style:none;}
+#man ul li{float:left;padding-left:10em;text-decoration:none;}
+#man ul li a{text-decoration:none;}
+#clearfloat{clear:both;}
